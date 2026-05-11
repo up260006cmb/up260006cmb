@@ -17,4 +17,4 @@
 
 ~~Me gusta comer~~
 
-![ADIOS!!!]([https://moure.dev/logo.svg](https://es.pinterest.com/albavargas_/fotos-random/) "Título opcional")
+![ADIOS!!!]((https://es.pinterest.com/albavargas_/fotos-random/) "Título opcional")
