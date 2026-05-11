@@ -4,8 +4,15 @@
 #### Tengo 20 años
 ##### Mi color favorito es el verde
 ###### Me gusta el pozole
+
 **Tengo un chiguagua**
-*Tenia un pez se llamaba brandi*
+
+*Tenia un pez, se llamaba brandi*
+
 [Ir a Google](https://github.com/BrianCalvario)
-<https://github.com/BrianCalvario> 💪🤘💻🤣
+
+<https://github.com/BrianCalvario>
+
+💪🤘💻🤣
+
 ~~Me gusta comer~~
