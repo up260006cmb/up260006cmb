@@ -17,4 +17,4 @@
 
 ~~Me gusta comer~~
 
-![ADIOS!!!]((https://es.pinterest.com/albavargas_/fotos-random/) "Título opcional")
+!(https://es.pinterest.com/albavargas_/fotos-random/)
