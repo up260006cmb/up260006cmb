@@ -17,5 +17,4 @@
 
 ~~Me gusta comer~~
 
-![Texto alternativo](<img width="1262" height="848" alt="fonde de inicio" src="https://github.com/user-attachments/assets/34f8834f-f18e-4a25-945e-9e422a9e6e85" />
- "Título opcional")
+![ADIOS!!!]([https://moure.dev/logo.svg](https://es.pinterest.com/albavargas_/fotos-random/) "Título opcional")
