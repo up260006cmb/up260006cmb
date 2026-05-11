@@ -9,7 +9,7 @@
 
 *Tenia un pez, se llamaba brandi*
 
-[Ir a Google](https://github.com/BrianCalvario)
+[Ir a Mi Git personal](https://github.com/BrianCalvario)
 
 <https://github.com/BrianCalvario>
 
